@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "*js",
-      "use": "/node"
+      "use": "http://localhost:3002/$1"
     }
   ],
   "routes": [
